@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 <a href="https://l3ssol3g.t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+</p>
+
 _Управления расписанием учебного заведения_
 
 ---
@@ -45,16 +47,19 @@ _Управления расписанием учебного заведения
 
 ## Как запустить?
 ### Windows
-Варинты:
-1. Установить Python 3.12
+Варианты:
+- Скачать готовый [exe](https://github.com/keyfawn/Scedu/releases/) и запустить
+- Запустить *run.bat*, затем только *main.py*
+- Вариант как для [Linux](#linux)
 
-   Для запуска необходимо с помощью файла *requirements.txt* установить все нужные библиотеки:
-   
-   ```pip install -r requirements.txt```
+### Linux
+Установить Python 3.12
 
-   После запустить *main.py*, и программа будет запущена
-2. Скачать готовый [exe](https://github.com/keyfawn/Scedu/releases/tag/v1.0.0) и запустить
-3. Запустить *run.bat*, затем только *main.py*
+Для запуска необходимо с помощью файла *requirements.txt* установить все нужные библиотеки:
+    
+```pip install -r requirements.txt```
+
+После запустить *main.py*, и программа будет запущена
 
 ## Контакты
 [Мой тг](https://l3ssol3g.t.me/)
@@ -63,5 +68,4 @@ _Управления расписанием учебного заведения
 
 ## Предыдущая работа по тз
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keyfawn&repo=bookery)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keyfawn&repo=bookery)](https://github.com/keyfawn/bookery)
